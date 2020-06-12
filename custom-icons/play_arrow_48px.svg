@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="28px" viewBox="0 0 22 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ic_play_arrow_48px</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_play_arrow_24px" fill="#000000">
+            <g id="playyer-mini-play-icon" transform="translate(2.000000, 0.000000)">
+                <path d="M1.41493333,26.9388 L17.7230667,14.7074667 C18.1141333,14.4144 18.1934667,13.86 17.9004,13.4698667 C17.85,13.4026667 17.7902667,13.3429333 17.7230667,13.2925333 L1.41493333,1.0612 C1.02386667,0.768133333 0.469466667,0.846533333 0.1764,1.23853333 C0.0616,1.39066667 0,1.57733333 0,1.76773333 L0,26.2304 C0,26.7185333 0.395733333,27.1152 0.883866667,27.1152 C1.0752,27.1152 1.26186667,27.0526667 1.41493333,26.9378667 L1.41493333,26.9388 Z" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>fullscreen_exit</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="fullscreen_exit" fill="#000000" fill-rule="nonzero">
+            <path d="M0,22 L6,22 L6,28 L10,28 L10,18 L0,18 L0,22 Z M6,6 L0,6 L0,10 L10,10 L10,0 L6,0 L6,6 Z M18,28 L22,28 L22,22 L28,22 L28,18 L18,18 L18,28 Z M22,6 L22,0 L18,0 L18,10 L28,10 L28,6 L22,6 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

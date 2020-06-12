@@ -3,31 +3,38 @@
   "root-dir": "./node_modules/material-design-icons/",
   "icons": [{
     "name": "play",
-    "svg": "av/svg/production/ic_play_arrow_48px.svg"
+    "svg": "play_arrow_48px.svg",
+    "root-dir": "./custom-icons/"
   }, {
     "name": "play-circle",
     "svg": "av/svg/production/ic_play_circle_outline_48px.svg"
   }, {
     "name": "pause",
-    "svg": "av/svg/production/ic_pause_48px.svg"
+    "svg": "pause_48px.svg",
+    "root-dir": "./custom-icons/"
   }, {
     "name": "volume-mute",
     "svg": "av/svg/production/ic_volume_off_48px.svg"
   }, {
     "name": "volume-low",
-    "svg": "av/svg/production/ic_volume_mute_48px.svg"
+    "svg": "volume_low.svg",
+    "root-dir": "./custom-icons/"
   }, {
     "name": "volume-mid",
-    "svg": "av/svg/production/ic_volume_down_48px.svg"
+    "svg": "volume_mid.svg",
+    "root-dir": "./custom-icons/"
   }, {
     "name": "volume-high",
-    "svg": "av/svg/production/ic_volume_up_48px.svg"
+    "svg": "volume_high.svg",
+    "root-dir": "./custom-icons/"
   }, {
     "name": "fullscreen-enter",
-    "svg": "navigation/svg/production/ic_fullscreen_48px.svg"
+    "svg": "fullscreen.svg",
+    "root-dir": "./custom-icons/"
   }, {
     "name": "fullscreen-exit",
-    "svg": "navigation/svg/production/ic_fullscreen_exit_48px.svg"
+    "svg": "fullscreen_exit.svg",
+    "root-dir": "./custom-icons/"
   }, {
     "name": "square",
     "svg": "image/svg/production/ic_crop_square_48px.svg"
@@ -36,10 +43,12 @@
     "svg": "image/svg/production/ic_camera_48px.svg"
   }, {
     "name": "subtitles",
-    "svg": "av/svg/production/ic_subtitles_48px.svg"
+    "root-dir": "./custom-icons/",
+    "svg": "subtitles.svg"
   }, {
     "name": "captions",
-    "svg": "av/svg/production/ic_closed_caption_48px.svg"
+    "root-dir": "./custom-icons/",
+    "svg": "captions.svg"
   }, {
     "name": "chapters",
     "svg": "action/svg/production/ic_list_48px.svg"
@@ -111,5 +120,14 @@
     "name": "picture-in-picture-exit",
     "svg": "picture-in-picture-exit.svg",
     "root-dir": "./custom-icons/"
-  }]
+  }, {
+    "name": "seek-forward",
+    "svg": "seek_forward.svg",
+    "root-dir": "./custom-icons/"
+  }, {
+    "name": "seek-backward",
+    "svg": "seek_backward.svg",
+    "root-dir": "./custom-icons/"
+  }
+  ]
 }
