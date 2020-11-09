@@ -128,6 +128,10 @@
     "name": "seek-backward",
     "svg": "seek_backward.svg",
     "root-dir": "./custom-icons/"
+  }, {
+    "name": "next-episode",
+    "svg": "next-episode.svg",
+    "root-dir": "./custom-icons/"
   }
   ]
 }
